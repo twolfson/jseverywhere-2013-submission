@@ -1,15 +1,11 @@
-The following is my submission for LXJS' 2013 Call for papers.
+The following is my submission for JSConfEU's 2013 Call for speakers.
 
 # Title
-Behavioral driven development and the future
+The Evolution of Behavioral Driven Development
+
+** The following are paraphrases because I forgot to save it **
 
 # Description
-Let's take a walk through BDD. This talk will cover what it is, the history and how it evolved out of TDD, what current options are, and what could be in the potential future.
+This talk is a review of the history of BDD. Starting with TDD being born, how it entered the mainstream, the evolution into BDD, and the various flavors introduced. Also, this will include my own experimentation to add to the flavor pool.
 
-This will include some experiments and plenty of code examples to give a thorough run-through of its pedigree.
-
-# Why do you think people should watch this talk
-
-// Forgot to copy/paste before submitting. This is a paraphrase.
-
-It is important to understand the history we come from to create ideas for the future. We should be humbled by the shoulders of giants we stand on.
+# Private summary
